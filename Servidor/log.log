@@ -1,0 +1,70 @@
+[INFO] 21:03:56:950 Servidor/(5060:5060): Servidor listo para recibir al cliente
+[INFO] 00:56:08:957 Servidor/(7779:7779): Servidor listo para recibir al cliente
+[INFO] 00:56:20:469 Servidor/(7779:7779): Se conecto un cliente!
+[INFO] 00:56:20:470 Servidor/(7779:7779): Me llego el mensaje Hola, soy un valor
+[ERROR] 00:56:40:321 Servidor/(7779:7779): el cliente se desconecto. Terminando servidor
+[INFO] 00:59:32:975 Servidor/(8165:8165): Servidor listo para recibir al cliente
+[INFO] 00:59:39:300 Servidor/(8165:8165): Se conecto un cliente!
+[INFO] 00:59:39:301 Servidor/(8165:8165): Me llego el mensaje Hola, soy un valor
+[ERROR] 00:59:54:703 Servidor/(8165:8165): el cliente se desconecto. Terminando servidor
+[INFO] 01:00:01:407 Servidor/(8226:8226): Servidor listo para recibir al cliente
+[INFO] 01:00:07:493 Servidor/(8226:8226): Se conecto un cliente!
+[INFO] 01:00:07:495 Servidor/(8226:8226): Me llego el mensaje Hola, soy un valor
+[ERROR] 01:00:13:882 Servidor/(8226:8226): el cliente se desconecto. Terminando servidor
+[INFO] 01:01:10:936 Servidor/(8369:8369): Servidor listo para recibir al cliente
+[INFO] 01:02:27:146 Servidor/(8369:8369): Se conecto un cliente!
+[INFO] 01:02:27:147 Servidor/(8369:8369): Me llego el mensaje Hola, soy un valor
+[ERROR] 01:02:32:115 Servidor/(8369:8369): el cliente se desconecto. Terminando servidor
+[INFO] 18:47:39:472 Servidor/(4820:4820): Servidor listo para recibir al cliente
+[INFO] 18:47:46:647 Servidor/(4820:4820): Se conecto un cliente!
+[INFO] 18:47:46:649 Servidor/(4820:4820): Me llego el mensaje Hola, soy un valor
+[ERROR] 18:47:53:574 Servidor/(4820:4820): el cliente se desconecto. Terminando servidor
+[INFO] 18:47:59:493 Servidor/(4873:4873): Servidor listo para recibir al cliente
+[INFO] 18:48:04:602 Servidor/(4873:4873): Se conecto un cliente!
+[INFO] 18:48:04:603 Servidor/(4873:4873): Me llego el mensaje Hola, soy un valor
+[ERROR] 18:48:14:603 Servidor/(4873:4873): el cliente se desconecto. Terminando servidor
+[INFO] 18:56:15:858 Servidor/(5354:5354): Servidor listo para recibir al cliente
+[INFO] 18:56:23:309 Servidor/(5354:5354): Se conecto un cliente!
+[INFO] 18:56:23:310 Servidor/(5354:5354): Me llego el mensaje Hola, soy un valor
+[ERROR] 18:56:30:982 Servidor/(5354:5354): el cliente se desconecto. Terminando servidor
+[INFO] 18:56:40:327 Servidor/(5405:5405): Servidor listo para recibir al cliente
+[INFO] 18:56:46:157 Servidor/(5405:5405): Se conecto un cliente!
+[INFO] 18:56:46:159 Servidor/(5405:5405): Me llego el mensaje Hola, soy un valor
+[ERROR] 18:56:56:430 Servidor/(5405:5405): el cliente se desconecto. Terminando servidor
+[INFO] 19:47:43:248 Servidor/(9667:9667): Servidor listo para recibir al cliente
+[INFO] 20:05:03:979 Servidor/(9667:9667): Se conecto un cliente!
+[INFO] 20:05:03:980 Servidor/(9667:9667): Me llego el mensaje Hola, soy un valor
+[ERROR] 20:05:18:355 Servidor/(9667:9667): el cliente se desconecto. Terminando servidor
+[INFO] 20:05:37:811 Servidor/(11298:11298): Servidor listo para recibir al cliente
+[INFO] 20:06:11:845 Servidor/(11298:11298): Se conecto un cliente!
+[INFO] 20:06:11:845 Servidor/(11298:11298): Me llego el mensaje Hola, soy un valor
+[ERROR] 20:07:05:626 Servidor/(11298:11298): el cliente se desconecto. Terminando servidor
+[INFO] 20:19:38:910 Servidor/(12299:12299): Servidor listo para recibir al cliente
+[INFO] 20:30:26:688 Servidor/(13482:13482): Servidor listo para recibir al cliente
+[INFO] 20:30:29:468 Servidor/(13482:13482): Se conecto un cliente!
+[ERROR] 20:30:29:469 Servidor/(13482:13482): el cliente se desconecto. Terminando servidor
+[INFO] 20:30:50:946 Servidor/(13524:13524): Servidor listo para recibir al cliente
+[INFO] 20:31:11:003 Servidor/(13524:13524): Se conecto un cliente!
+[ERROR] 20:31:11:005 Servidor/(13524:13524): el cliente se desconecto. Terminando servidor
+[INFO] 20:31:21:008 Servidor/(13593:13593): Servidor listo para recibir al cliente
+[INFO] 10:03:11:753 Servidor/(11493:11493): Servidor listo para recibir al cliente
+[INFO] 10:03:17:994 Servidor/(11493:11493): Se conecto un cliente!
+[ERROR] 10:03:17:995 Servidor/(11493:11493): el cliente se desconecto. Terminando servidor
+[INFO] 10:03:46:190 Servidor/(11592:11592): Servidor listo para recibir al cliente
+[INFO] 10:03:53:487 Servidor/(11592:11643): Se conecto un cliente!
+[ERROR] 10:03:53:489 Servidor/(11592:11643): el cliente se desconecto. Terminando servidor
+[INFO] 10:03:53:500 Servidor/(11592:11644): Se conecto un cliente!
+[ERROR] 10:03:53:502 Servidor/(11592:11644): el cliente se desconecto. Terminando servidor
+[INFO] 10:04:01:080 Servidor/(11592:11662): Se conecto un cliente!
+[ERROR] 10:04:01:083 Servidor/(11592:11662): el cliente se desconecto. Terminando servidor
+[INFO] 10:04:01:089 Servidor/(11592:11663): Se conecto un cliente!
+[ERROR] 10:04:01:091 Servidor/(11592:11663): el cliente se desconecto. Terminando servidor
+[INFO] 10:57:28:858 Servidor/(15920:15920): Servidor listo para recibir al cliente
+[INFO] 10:57:37:829 Servidor/(15920:15945): Se conecto un cliente!
+[ERROR] 10:57:37:830 Servidor/(15920:15945): el cliente se desconecto. Terminando servidor
+[INFO] 10:57:37:840 Servidor/(15920:15946): Se conecto un cliente!
+[ERROR] 10:57:37:841 Servidor/(15920:15946): el cliente se desconecto. Terminando servidor
+[INFO] 10:57:44:150 Servidor/(15920:15961): Se conecto un cliente!
+[ERROR] 10:57:44:153 Servidor/(15920:15961): el cliente se desconecto. Terminando servidor
+[INFO] 10:57:44:159 Servidor/(15920:15962): Se conecto un cliente!
+[ERROR] 10:57:44:159 Servidor/(15920:15962): el cliente se desconecto. Terminando servidor
