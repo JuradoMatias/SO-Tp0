@@ -16,6 +16,8 @@
 #include<commons/log.h>
 #include<commons/collections/list.h>
 #include<string.h>
+#include<pthread.h>
+
 
 #define IP "127.0.0.1"
 #define PUERTO "4444"
@@ -35,5 +37,7 @@ int esperar_cliente(int);
 t_list* recibir_paquete(int);
 void recibir_mensaje(int);
 int recibir_operacion(int);
+void* noficar_salida_de_cliente(int estadoHijo);
+void* atender_cliente(void* server_fd);
 
 #endif /* CONEXIONES_H_ */

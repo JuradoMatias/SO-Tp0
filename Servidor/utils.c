@@ -49,6 +49,7 @@ int esperar_cliente(int socket_servidor)
 
 	int socket_cliente = accept(socket_servidor, (void*) &dir_cliente, &tam_direccion);
 
+/* 
 		while(fork() != -1)
 	{
 		// case -1:
@@ -71,6 +72,10 @@ int esperar_cliente(int socket_servidor)
 
 		}
 	}
+	*/
+			
+log_info(logger, "Se conecto un cliente!");
+return socket_cliente;
 
 
 }
@@ -139,3 +144,39 @@ void* noficar_salida_de_cliente(int estadoHijo)
 		printf("Mi hijo ha hecho exit (%d)\n", WEXITSTATUS(estadoHijo));
 	}
 }
+
+void* atender_cliente(void* server_fd){
+	t_list* lista;
+
+		void iterator(char* value)
+	{
+		printf("%s\n", value);
+	}
+
+	//int server_fd = (void*) server;
+	//while(1)
+	//{
+		int cliente_fd = esperar_cliente((int) server_fd);
+		int cod_op = recibir_operacion(cliente_fd);
+		switch(cod_op)
+		{
+		case MENSAJE:
+			recibir_mensaje(cliente_fd);
+			break;
+		case PAQUETE:
+			lista = recibir_paquete(cliente_fd);
+			printf("Me llegaron los siguientes valores:\n");
+			list_iterate(lista, (void*) iterator);
+			break;
+		case -1:
+			log_error(logger, "el cliente se desconecto. Terminando servidor");
+			return EXIT_FAILURE;
+		default:
+			log_warning(logger, "Operacion desconocida. No quieras meter la pata");
+			break;
+	//	}
+	}
+
+	return 0;
+
+	}
