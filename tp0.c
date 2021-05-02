@@ -45,7 +45,7 @@ int main(void)
 	conexion = crear_conexion(ip,puerto);
 
 	//enviar CLAVE al servidor
-	//enviar_mensaje(CLAVE_valor,conexion);
+	enviar_mensaje(CLAVE_valor,conexion);
 	
 	t_paquete* paquete = preparar_paquete();
 	enviar_paquete(paquete,conexion);  

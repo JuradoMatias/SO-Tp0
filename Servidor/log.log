@@ -102,3 +102,825 @@
 [INFO] 20:15:14:288 Servidor/(12180:12194): Se conecto un cliente!
 [INFO] 20:15:21:638 Servidor/(12180:12186): Se conecto un cliente!
 [INFO] 20:22:11:685 Servidor/(12744:12744): Servidor listo para recibir al cliente
+[INFO] 20:33:51:330 Servidor/(13364:13364): Servidor listo para recibir al cliente
+[INFO] 20:33:56:133 Servidor/(13364:13405): Se conecto un cliente!
+[INFO] 20:39:06:221 Servidor/(13941:13941): Servidor listo para recibir al cliente
+[INFO] 20:39:24:30 Servidor/(13971:13971): Servidor listo para recibir al cliente
+[INFO] 20:39:24:44 Servidor/(13971:13977): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14012): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14014): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14021): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14001): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14003): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14009): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14015): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14016): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14006): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13985): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13986): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13987): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13988): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13990): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13993): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13996): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13997): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14005): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14007): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14011): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14017): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14020): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14023): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14025): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13978): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13982): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13995): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14004): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14008): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13979): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13980): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13981): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13983): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13984): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:13989): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:13991): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:13992): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:13994): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:13998): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:13999): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:14000): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:14002): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:14010): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:14013): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:14018): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:14019): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:14024): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:14026): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:14027): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:14028): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:14029): Se conecto un cliente!
+[INFO] 20:39:24:46 Servidor/(13971:14030): Se conecto un cliente!
+[INFO] 20:39:24:45 Servidor/(13971:14022): Se conecto un cliente!
+[INFO] 20:39:24:49 Servidor/(13971:14032): Se conecto un cliente!
+[INFO] 20:39:24:47 Servidor/(13971:14031): Se conecto un cliente!
+[INFO] 20:39:24:49 Servidor/(13971:13977): Me llego el mensaje 
+[INFO] 20:39:24:49 Servidor/(13971:13976): Se conecto un cliente!
+[INFO] 20:39:24:49 Servidor/(13971:14033): Se conecto un cliente!
+[INFO] 20:39:24:49 Servidor/(13971:14034): Se conecto un cliente!
+[INFO] 20:39:24:50 Servidor/(13971:14035): Se conecto un cliente!
+[INFO] 20:39:24:50 Servidor/(13971:14036): Se conecto un cliente!
+[INFO] 20:39:24:50 Servidor/(13971:14037): Se conecto un cliente!
+[INFO] 20:39:24:50 Servidor/(13971:14038): Se conecto un cliente!
+[INFO] 20:39:24:50 Servidor/(13971:14001): Me llego el mensaje 
+[INFO] 20:39:24:50 Servidor/(13971:14016): Me llego el mensaje 
+[INFO] 20:39:24:50 Servidor/(13971:13987): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:50 Servidor/(13971:13996): Me llego el mensaje 
+[INFO] 20:39:24:50 Servidor/(13971:14011): Me llego el mensaje 8q9:24
+[INFO] 20:39:24:50 Servidor/(13971:14025): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:50 Servidor/(13971:13978): Me llego el mensaje ∏”9:24
+[INFO] 20:39:24:50 Servidor/(13971:14008): Me llego el mensaje 8q9:24
+[INFO] 20:39:24:50 Servidor/(13971:13983): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:50 Servidor/(13971:13992): Me llego el mensaje ∏”9:24
+[INFO] 20:39:24:50 Servidor/(13971:14000): Me llego el mensaje 8q9:24
+[INFO] 20:39:24:50 Servidor/(13971:14018): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:50 Servidor/(13971:14027): Me llego el mensaje ∏”9:24
+[INFO] 20:39:24:50 Servidor/(13971:14030): Me llego el mensaje ∏”9:24
+[INFO] 20:39:24:50 Servidor/(13971:14032): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:51 Servidor/(13971:14033): Me llego el mensaje 8q9:24
+[INFO] 20:39:24:51 Servidor/(13971:14012): Me llego el mensaje 8q9:24
+[INFO] 20:39:24:51 Servidor/(13971:14039): Se conecto un cliente!
+[INFO] 20:39:24:51 Servidor/(13971:14040): Se conecto un cliente!
+[INFO] 20:39:24:51 Servidor/(13971:14038): Me llego el mensaje ∏r∑H(
+[INFO] 20:39:24:51 Servidor/(13971:14041): Se conecto un cliente!
+[INFO] 20:39:24:51 Servidor/(13971:14015): Me llego el mensaje H(H(
+[INFO] 20:39:24:51 Servidor/(13971:13988): Me llego el mensaje H(H(
+[INFO] 20:39:24:51 Servidor/(13971:14005): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:51 Servidor/(13971:14020): Me llego el mensaje H(H(
+[INFO] 20:39:24:51 Servidor/(13971:14004): Me llego el mensaje H(H(
+[INFO] 20:39:24:51 Servidor/(13971:13984): Me llego el mensaje H(H(
+[INFO] 20:39:24:51 Servidor/(13971:13998): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:51 Servidor/(13971:14013): Me llego el mensaje »q9:24
+[INFO] 20:39:24:51 Servidor/(13971:14028): Me llego el mensaje »q9:24
+[INFO] 20:39:24:52 Servidor/(13971:14031): Me llego el mensaje »q9:24
+[INFO] 20:39:24:52 Servidor/(13971:14035): Me llego el mensaje ∏r∑x.
+[INFO] 20:39:24:52 Servidor/(13971:14039): Me llego el mensaje »q9:24
+[INFO] 20:39:24:52 Servidor/(13971:14042): Se conecto un cliente!
+[INFO] 20:39:24:52 Servidor/(13971:13975): Se conecto un cliente!
+[INFO] 20:39:24:52 Servidor/(13971:14043): Se conecto un cliente!
+[INFO] 20:39:24:52 Servidor/(13971:14044): Se conecto un cliente!
+[INFO] 20:39:24:52 Servidor/(13971:14045): Se conecto un cliente!
+[INFO] 20:39:24:52 Servidor/(13971:14041): Me llego el mensaje ¯.9:24
+[INFO] 20:39:24:52 Servidor/(13971:13986): Me llego el mensaje »q9:24
+[INFO] 20:39:24:52 Servidor/(13971:14007): Me llego el mensaje ¯.9:24
+[INFO] 20:39:24:52 Servidor/(13971:13995): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:52 Servidor/(13971:13989): Me llego el mensaje »q9:24
+[INFO] 20:39:24:52 Servidor/(13971:14002): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:52 Servidor/(13971:14026): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:53 Servidor/(13971:14029): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:53 Servidor/(13971:13976): Me llego el mensaje ∏r∑∏r∑
+[INFO] 20:39:24:53 Servidor/(13971:14036): Me llego el mensaje H
+[INFO] 20:39:24:53 Servidor/(13971:14040): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:53 Servidor/(13971:14042): Me llego el mensaje ∏	q∏	q
+[INFO] 20:39:24:53 Servidor/(13971:14046): Se conecto un cliente!
+[INFO] 20:39:24:53 Servidor/(13971:14047): Se conecto un cliente!
+[INFO] 20:39:24:53 Servidor/(13971:14044): Me llego el mensaje ∏	q∏	q
+[INFO] 20:39:24:53 Servidor/(13971:14048): Se conecto un cliente!
+[INFO] 20:39:24:53 Servidor/(13971:14009): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:53 Servidor/(13971:13993): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:53 Servidor/(13971:13982): Me llego el mensaje ∏	q∏	q
+[INFO] 20:39:24:53 Servidor/(13971:13991): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:53 Servidor/(13971:14019): Me llego el mensaje Ë-9:24
+[INFO] 20:39:24:53 Servidor/(13971:14034): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:53 Servidor/(13971:14037): Me llego el mensaje H
+[INFO] 20:39:24:53 Servidor/(13971:13975): Me llego el mensaje @
+[INFO] 20:39:24:53 Servidor/(13971:14043): Me llego el mensaje Ë-9:24
+[INFO] 20:39:24:53 Servidor/(13971:14047): Me llego el mensaje ∏	q∏	q
+[INFO] 20:39:24:53 Servidor/(13971:14049): Se conecto un cliente!
+[INFO] 20:39:24:53 Servidor/(13971:14050): Se conecto un cliente!
+[INFO] 20:39:24:54 Servidor/(13971:14051): Se conecto un cliente!
+[INFO] 20:39:24:54 Servidor/(13971:14006): Me llego el mensaje 
+[INFO] 20:39:24:54 Servidor/(13971:14017): Me llego el mensaje 
+[INFO] 20:39:24:54 Servidor/(13971:13981): Me llego el mensaje ∏	q∏	q
+[INFO] 20:39:24:54 Servidor/(13971:14024): Me llego el mensaje H
+[INFO] 20:39:24:54 Servidor/(13971:14022): Me llego el mensaje ∞r∑Ë-
+[INFO] 20:39:24:54 Servidor/(13971:14021): Me llego el mensaje 
+[INFO] 20:39:24:54 Servidor/(13971:14046): Me llego el mensaje Ë-Ë-
+[INFO] 20:39:24:54 Servidor/(13971:14049): Me llego el mensaje Ë-Ë-
+[INFO] 20:39:24:54 Servidor/(13971:14052): Se conecto un cliente!
+[INFO] 20:39:24:54 Servidor/(13971:14053): Se conecto un cliente!
+[INFO] 20:39:24:54 Servidor/(13971:14051): Me llego el mensaje 
+[INFO] 20:39:24:54 Servidor/(13971:14054): Se conecto un cliente!
+[INFO] 20:39:24:54 Servidor/(13971:14055): Se conecto un cliente!
+[INFO] 20:39:24:56 Servidor/(13971:14056): Se conecto un cliente!
+[INFO] 20:39:24:56 Servidor/(13971:14023): Me llego el mensaje q9:24
+[INFO] 20:39:24:56 Servidor/(13971:13999): Me llego el mensaje Ë-9:24
+[INFO] 20:39:24:56 Servidor/(13971:14045): Me llego el mensaje 
+[INFO] 20:39:24:56 Servidor/(13971:14048): Me llego el mensaje 
+[INFO] 20:39:24:56 Servidor/(13971:14052): Me llego el mensaje ∏”9:24
+[INFO] 20:39:24:56 Servidor/(13971:14057): Se conecto un cliente!
+[INFO] 20:39:24:56 Servidor/(13971:13974): Se conecto un cliente!
+[INFO] 20:39:24:56 Servidor/(13971:14058): Se conecto un cliente!
+[INFO] 20:39:24:56 Servidor/(13971:13990): Me llego el mensaje q9:24
+[INFO] 20:39:24:56 Servidor/(13971:14054): Me llego el mensaje 
+[INFO] 20:39:24:56 Servidor/(13971:14059): Se conecto un cliente!
+[INFO] 20:39:24:56 Servidor/(13971:14060): Se conecto un cliente!
+[INFO] 20:39:24:56 Servidor/(13971:14061): Se conecto un cliente!
+[INFO] 20:39:24:56 Servidor/(13971:14059): Me llego el mensaje Ä0q9:24
+[INFO] 20:39:24:56 Servidor/(13971:14062): Se conecto un cliente!
+[INFO] 20:39:24:56 Servidor/(13971:14063): Se conecto un cliente!
+[INFO] 20:39:24:57 Servidor/(13971:13994): Me llego el mensaje @
+[INFO] 20:39:24:57 Servidor/(13971:14050): Me llego el mensaje @
+[INFO] 20:39:24:57 Servidor/(13971:14053): Me llego el mensaje hqp	q
+[INFO] 20:39:24:57 Servidor/(13971:14057): Me llego el mensaje Ä0q9:24
+[INFO] 20:39:24:57 Servidor/(13971:13985): Me llego el mensaje ∏”9:24
+[INFO] 20:39:24:57 Servidor/(13971:14055): Me llego el mensaje ∏”9:24
+[INFO] 20:39:24:57 Servidor/(13971:14060): Me llego el mensaje ∏”9:24
+[INFO] 20:39:24:57 Servidor/(13971:13979): Me llego el mensaje ®
+[INFO] 20:39:24:57 Servidor/(13971:14064): Se conecto un cliente!
+[INFO] 20:39:24:57 Servidor/(13971:14062): Me llego el mensaje h0qh0qh0q
+[INFO] 20:39:24:57 Servidor/(13971:14065): Se conecto un cliente!
+[INFO] 20:39:24:57 Servidor/(13971:14066): Se conecto un cliente!
+[INFO] 20:39:24:57 Servidor/(13971:14014): Me llego el mensaje hq9:24
+[INFO] 20:39:24:57 Servidor/(13971:13974): Me llego el mensaje ∏”9:24
+[INFO] 20:39:24:57 Servidor/(13971:14061): Me llego el mensaje hq9:24
+[INFO] 20:39:24:57 Servidor/(13971:14064): Me llego el mensaje hq9:24
+[INFO] 20:39:24:57 Servidor/(13971:14067): Se conecto un cliente!
+[INFO] 20:39:24:57 Servidor/(13971:14068): Se conecto un cliente!
+[INFO] 20:39:24:58 Servidor/(13971:14010): Me llego el mensaje »r∑»r∑to u
+[INFO] 20:39:24:58 Servidor/(13971:14070): Se conecto un cliente!
+[INFO] 20:39:24:58 Servidor/(13971:14071): Se conecto un cliente!
+[INFO] 20:39:24:58 Servidor/(13971:14066): Me llego el mensaje »r∑@'
+[INFO] 20:39:24:58 Servidor/(13971:14072): Se conecto un cliente!
+[INFO] 20:39:24:58 Servidor/(13971:13997): Me llego el mensaje P
+[INFO] 20:39:24:58 Servidor/(13971:14063): Me llego el mensaje @'@'
+[INFO] 20:39:24:58 Servidor/(13971:14067): Me llego el mensaje 
+[INFO] 20:39:24:58 Servidor/(13971:14070): Me llego el mensaje 
+[INFO] 20:39:24:58 Servidor/(13971:14069): Se conecto un cliente!
+[INFO] 20:39:24:59 Servidor/(13971:14073): Se conecto un cliente!
+[INFO] 20:39:24:59 Servidor/(13971:14072): Me llego el mensaje √9:24
+[INFO] 20:39:24:59 Servidor/(13971:14065): Me llego el mensaje x0q9:24
+[INFO] 20:39:24:59 Servidor/(13971:14071): Me llego el mensaje †0q9:24
+[INFO] 20:39:24:59 Servidor/(13971:14074): Se conecto un cliente!
+[INFO] 20:39:24:59 Servidor/(13971:14075): Se conecto un cliente!
+[INFO] 20:39:24:59 Servidor/(13971:14076): Se conecto un cliente!
+[INFO] 20:39:24:59 Servidor/(13971:14074): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:59 Servidor/(13971:14077): Se conecto un cliente!
+[INFO] 20:39:24:59 Servidor/(13971:14078): Se conecto un cliente!
+[INFO] 20:39:24:59 Servidor/(13971:14068): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:59 Servidor/(13971:14069): Me llego el mensaje √9:24
+[INFO] 20:39:24:59 Servidor/(13971:14075): Me llego el mensaje √9:24
+[INFO] 20:39:24:59 Servidor/(13971:13973): Se conecto un cliente!
+[INFO] 20:39:24:59 Servidor/(13971:14079): Se conecto un cliente!
+[INFO] 20:39:24:59 Servidor/(13971:14056): Me llego el mensaje (q9:24
+[INFO] 20:39:24:59 Servidor/(13971:14077): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:59 Servidor/(13971:14080): Se conecto un cliente!
+[INFO] 20:39:24:59 Servidor/(13971:14073): Me llego el mensaje (q9:24
+[INFO] 20:39:24:59 Servidor/(13971:14081): Se conecto un cliente!
+[INFO] 20:39:24:60 Servidor/(13971:13973): Me llego el mensaje (q9:24
+[INFO] 20:39:24:60 Servidor/(13971:14082): Se conecto un cliente!
+[INFO] 20:39:24:60 Servidor/(13971:14083): Se conecto un cliente!
+[INFO] 20:39:24:62 Servidor/(13971:14084): Se conecto un cliente!
+[INFO] 20:39:24:62 Servidor/(13971:14085): Se conecto un cliente!
+[INFO] 20:39:24:62 Servidor/(13971:14086): Se conecto un cliente!
+[INFO] 20:39:24:63 Servidor/(13971:14087): Se conecto un cliente!
+[INFO] 20:39:24:63 Servidor/(13971:14088): Se conecto un cliente!
+[INFO] 20:39:24:63 Servidor/(13971:14078): Me llego el mensaje √9:24
+[INFO] 20:39:24:63 Servidor/(13971:14058): Me llego el mensaje `
+[INFO] 20:39:24:63 Servidor/(13971:14081): Me llego el mensaje »q`
+[INFO] 20:39:24:63 Servidor/(13971:14083): Me llego el mensaje √9:24
+[INFO] 20:39:24:63 Servidor/(13971:14089): Se conecto un cliente!
+[INFO] 20:39:24:63 Servidor/(13971:14084): Me llego el mensaje »q`
+[INFO] 20:39:24:63 Servidor/(13971:14090): Se conecto un cliente!
+[INFO] 20:39:24:63 Servidor/(13971:14091): Se conecto un cliente!
+[INFO] 20:39:24:63 Servidor/(13971:14088): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:63 Servidor/(13971:14092): Se conecto un cliente!
+[INFO] 20:39:24:63 Servidor/(13971:14079): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:63 Servidor/(13971:14082): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:63 Servidor/(13971:14093): Se conecto un cliente!
+[INFO] 20:39:24:63 Servidor/(13971:14094): Se conecto un cliente!
+[INFO] 20:39:24:63 Servidor/(13971:14095): Se conecto un cliente!
+[INFO] 20:39:24:63 Servidor/(13971:14093): Me llego el mensaje »q9:24
+[INFO] 20:39:24:63 Servidor/(13971:14096): Se conecto un cliente!
+[INFO] 20:39:24:63 Servidor/(13971:14097): Se conecto un cliente!
+[INFO] 20:39:24:63 Servidor/(13971:14091): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:63 Servidor/(13971:14003): Me llego el mensaje @
+[INFO] 20:39:24:64 Servidor/(13971:14092): Me llego el mensaje √9:24
+[INFO] 20:39:24:64 Servidor/(13971:14095): Me llego el mensaje √9:24
+[INFO] 20:39:24:64 Servidor/(13971:14098): Se conecto un cliente!
+[INFO] 20:39:24:64 Servidor/(13971:14097): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:64 Servidor/(13971:14099): Se conecto un cliente!
+[INFO] 20:39:24:64 Servidor/(13971:14100): Se conecto un cliente!
+[INFO] 20:39:24:64 Servidor/(13971:14080): Me llego el mensaje √9:24
+[INFO] 20:39:24:64 Servidor/(13971:14089): Me llego el mensaje √9:24
+[INFO] 20:39:24:64 Servidor/(13971:14086): Me llego el mensaje √9:24
+[INFO] 20:39:24:64 Servidor/(13971:14098): Me llego el mensaje √9:24
+[INFO] 20:39:24:64 Servidor/(13971:14101): Se conecto un cliente!
+[INFO] 20:39:24:64 Servidor/(13971:14102): Se conecto un cliente!
+[INFO] 20:39:24:64 Servidor/(13971:14099): Me llego el mensaje ÿq9:24
+[INFO] 20:39:24:64 Servidor/(13971:14103): Se conecto un cliente!
+[INFO] 20:39:24:64 Servidor/(13971:14104): Se conecto un cliente!
+[INFO] 20:39:24:64 Servidor/(13971:14076): Me llego el mensaje ÿq9:24
+[INFO] 20:39:24:64 Servidor/(13971:14094): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:64 Servidor/(13971:14101): Me llego el mensaje √9:24
+[INFO] 20:39:24:64 Servidor/(13971:14105): Se conecto un cliente!
+[INFO] 20:39:24:64 Servidor/(13971:14100): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:64 Servidor/(13971:14106): Se conecto un cliente!
+[INFO] 20:39:24:64 Servidor/(13971:14107): Se conecto un cliente!
+[INFO] 20:39:24:65 Servidor/(13971:14108): Se conecto un cliente!
+[INFO] 20:39:24:65 Servidor/(13971:13980): Me llego el mensaje »r∑¯'
+[INFO] 20:39:24:65 Servidor/(13971:14106): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:65 Servidor/(13971:14109): Se conecto un cliente!
+[INFO] 20:39:24:65 Servidor/(13971:14110): Se conecto un cliente!
+[INFO] 20:39:24:65 Servidor/(13971:14090): Me llego el mensaje ÿq9:24
+[INFO] 20:39:24:65 Servidor/(13971:14102): Me llego el mensaje ÿq9:24
+[INFO] 20:39:24:68 Servidor/(13971:13972): Se conecto un cliente!
+[INFO] 20:39:24:69 Servidor/(13971:14170): Se conecto un cliente!
+[INFO] 20:39:24:69 Servidor/(13971:14165): Se conecto un cliente!
+[INFO] 20:39:24:69 Servidor/(13971:14171): Se conecto un cliente!
+[INFO] 20:39:24:69 Servidor/(13971:14149): Se conecto un cliente!
+[INFO] 20:39:24:69 Servidor/(13971:14159): Se conecto un cliente!
+[INFO] 20:39:24:69 Servidor/(13971:14151): Se conecto un cliente!
+[INFO] 20:39:24:69 Servidor/(13971:14158): Se conecto un cliente!
+[INFO] 20:39:24:69 Servidor/(13971:14164): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14138): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14140): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14146): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14152): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14153): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14143): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14122): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14123): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14124): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14125): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14127): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14130): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14133): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14134): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14142): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14144): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14148): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14154): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14157): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14160): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14162): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14163): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14169): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14114): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14115): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14119): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14132): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14141): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14145): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14116): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14117): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14118): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14120): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14121): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14126): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14128): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14129): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14131): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14135): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14136): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14137): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14139): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14147): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14150): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14155): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14156): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14161): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14166): Se conecto un cliente!
+[INFO] 20:39:24:70 Servidor/(13971:14167): Se conecto un cliente!
+[INFO] 20:39:24:71 Servidor/(13971:14168): Se conecto un cliente!
+[INFO] 20:39:24:71 Servidor/(13971:14172): Se conecto un cliente!
+[INFO] 20:39:24:71 Servidor/(13971:14173): Se conecto un cliente!
+[INFO] 20:39:24:71 Servidor/(13971:14174): Se conecto un cliente!
+[INFO] 20:39:24:71 Servidor/(13971:14175): Se conecto un cliente!
+[INFO] 20:39:24:71 Servidor/(13971:14176): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14177): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14113): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14178): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14179): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14180): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14181): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14182): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14183): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14112): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14184): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14185): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14186): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14187): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14188): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14189): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14190): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14191): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14192): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14193): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14194): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14195): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14196): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14197): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14198): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14111): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14199): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14200): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14201): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14202): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14203): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14204): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14205): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14206): Se conecto un cliente!
+[INFO] 20:39:24:72 Servidor/(13971:14207): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14208): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14209): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14210): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14211): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14212): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14213): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14214): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14215): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14216): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14217): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14218): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14219): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14220): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14221): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14222): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14223): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14224): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14225): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14226): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14227): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14228): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14229): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14230): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14231): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14232): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14233): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14234): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14235): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14236): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14237): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14238): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14239): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14240): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14241): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14242): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14243): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14244): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14245): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14246): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14247): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14248): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14249): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14250): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14251): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14252): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14253): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14254): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14255): Se conecto un cliente!
+[INFO] 20:39:24:73 Servidor/(13971:14256): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14257): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14258): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14259): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14260): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14261): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14262): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14263): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14264): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14265): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14266): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14267): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14268): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14269): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14270): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14271): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14272): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14273): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14274): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14275): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14276): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14277): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14278): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14279): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14280): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14281): Se conecto un cliente!
+[INFO] 20:39:24:74 Servidor/(13971:14282): Se conecto un cliente!
+[INFO] 20:39:24:79 Servidor/(13971:14104): Me llego el mensaje P'9:24
+[INFO] 20:39:24:79 Servidor/(13971:14110): Me llego el mensaje 
+[INFO] 20:39:24:79 Servidor/(13971:14107): Me llego el mensaje 8¬9:24
+[INFO] 20:39:24:79 Servidor/(13971:14103): Me llego el mensaje »0q9:24
+[INFO] 20:39:24:79 Servidor/(13971:13972): Me llego el mensaje ÿq9:24
+[INFO] 20:39:24:79 Servidor/(13971:14170): Me llego el mensaje 
+[INFO] 20:39:24:79 Servidor/(13971:14159): Me llego el mensaje 8¬9:24
+[INFO] 20:39:24:79 Servidor/(13971:14138): Me llego el mensaje 
+[INFO] 20:39:24:80 Servidor/(13971:14153): Me llego el mensaje 
+0q9:24
+[INFO] 20:39:24:80 Servidor/(13971:14124): Me llego el mensaje 8¬9:24
+[INFO] 20:39:24:80 Servidor/(13971:14133): Me llego el mensaje àq9:24
+[INFO] 20:39:24:80 Servidor/(13971:14148): Me llego el mensaje 
+0q9:24
+[INFO] 20:39:24:80 Servidor/(13971:14162): Me llego el mensaje 8¬9:24
+[INFO] 20:39:24:80 Servidor/(13971:14115): Me llego el mensaje 
+[INFO] 20:39:24:80 Servidor/(13971:14145): Me llego el mensaje 
+0q9:24
+[INFO] 20:39:24:80 Servidor/(13971:14120): Me llego el mensaje 8¬9:24
+[INFO] 20:39:24:80 Servidor/(13971:14129): Me llego el mensaje Ä
+q9:24
+[INFO] 20:39:24:80 Servidor/(13971:14137): Me llego el mensaje 
+0q9:24
+[INFO] 20:39:24:80 Servidor/(13971:14155): Me llego el mensaje 8¬9:24
+[INFO] 20:39:24:80 Servidor/(13971:14167): Me llego el mensaje Ä
+q9:24
+[INFO] 20:39:24:80 Servidor/(13971:14174): Me llego el mensaje 
+0q9:24
+[INFO] 20:39:24:80 Servidor/(13971:14177): Me llego el mensaje 
+0q9:24
+[INFO] 20:39:24:80 Servidor/(13971:14180): Me llego el mensaje 8¬9:24
+[INFO] 20:39:24:80 Servidor/(13971:14183): Me llego el mensaje 8¬9:24
+[INFO] 20:39:24:80 Servidor/(13971:14185): Me llego el mensaje 8¬9:24
+[INFO] 20:39:24:81 Servidor/(13971:14189): Me llego el mensaje Ä
+q9:24
+[INFO] 20:39:24:81 Servidor/(13971:14193): Me llego el mensaje 
+0q9:24
+[INFO] 20:39:24:81 Servidor/(13971:14196): Me llego el mensaje 
+0q9:24
+[INFO] 20:39:24:81 Servidor/(13971:14111): Me llego el mensaje 
+0q9:24
+[INFO] 20:39:24:81 Servidor/(13971:14202): Me llego el mensaje 8¬9:24
+[INFO] 20:39:24:81 Servidor/(13971:14283): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14284): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14285): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14286): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14287): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14288): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14289): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14290): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14291): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14292): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14293): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14294): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14295): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14296): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14297): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14298): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14299): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14300): Se conecto un cliente!
+[INFO] 20:39:24:81 Servidor/(13971:14301): Se conecto un cliente!
+[INFO] 20:39:24:83 Servidor/(13971:14302): Se conecto un cliente!
+[INFO] 20:39:24:83 Servidor/(13971:14303): Se conecto un cliente!
+[INFO] 20:39:24:83 Servidor/(13971:14304): Se conecto un cliente!
+[INFO] 20:39:24:83 Servidor/(13971:14305): Se conecto un cliente!
+[INFO] 20:39:24:83 Servidor/(13971:14306): Se conecto un cliente!
+[INFO] 20:39:24:83 Servidor/(13971:14307): Se conecto un cliente!
+[INFO] 20:39:24:85 Servidor/(13971:14205): Me llego el mensaje 
+[INFO] 20:39:24:86 Servidor/(13971:14209): Me llego el mensaje Ä
+q9:24
+[INFO] 20:39:24:86 Servidor/(13971:14212): Me llego el mensaje 
+[INFO] 20:39:24:86 Servidor/(13971:14216): Me llego el mensaje 
+[INFO] 20:39:24:86 Servidor/(13971:14219): Me llego el mensaje (0q9:24
+[INFO] 20:39:24:86 Servidor/(13971:14221): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:86 Servidor/(13971:14224): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:86 Servidor/(13971:14227): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:86 Servidor/(13971:14230): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:86 Servidor/(13971:14233): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:86 Servidor/(13971:14235): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:86 Servidor/(13971:14238): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:86 Servidor/(13971:14241): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:86 Servidor/(13971:14243): Me llego el mensaje (0q9:24
+[INFO] 20:39:24:86 Servidor/(13971:14246): Me llego el mensaje (0q9:24
+[INFO] 20:39:24:86 Servidor/(13971:14249): Me llego el mensaje (0q9:24
+[INFO] 20:39:24:86 Servidor/(13971:14252): Me llego el mensaje (0q9:24
+[INFO] 20:39:24:86 Servidor/(13971:14255): Me llego el mensaje (0q9:24
+[INFO] 20:39:24:86 Servidor/(13971:14257): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:87 Servidor/(13971:14261): Me llego el mensaje (0q9:24
+[INFO] 20:39:24:87 Servidor/(13971:14263): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:87 Servidor/(13971:14265): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:87 Servidor/(13971:14268): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:87 Servidor/(13971:14271): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:87 Servidor/(13971:14274): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:87 Servidor/(13971:14278): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:87 Servidor/(13971:14281): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:87 Servidor/(13971:14108): Me llego el mensaje 
+[INFO] 20:39:24:87 Servidor/(13971:14087): Me llego el mensaje Ëq9:24
+[INFO] 20:39:24:87 Servidor/(13971:14165): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:87 Servidor/(13971:14158): Me llego el mensaje (0q9:24
+[INFO] 20:39:24:87 Servidor/(13971:14152): Me llego el mensaje Ëq9:24
+[INFO] 20:39:24:88 Servidor/(13971:14125): Me llego el mensaje Ëq9:24
+[INFO] 20:39:24:88 Servidor/(13971:14142): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:88 Servidor/(13971:14160): Me llego el mensaje (0q9:24
+[INFO] 20:39:24:88 Servidor/(13971:14119): Me llego el mensaje (0q9:24
+[INFO] 20:39:24:88 Servidor/(13971:14117): Me llego el mensaje Ëq9:24
+[INFO] 20:39:24:88 Servidor/(13971:14128): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:88 Servidor/(13971:14139): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:88 Servidor/(13971:14161): Me llego el mensaje (0q9:24
+[INFO] 20:39:24:88 Servidor/(13971:14173): Me llego el mensaje Ëq9:24
+[INFO] 20:39:24:89 Servidor/(13971:14113): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:89 Servidor/(13971:14178): Me llego el mensaje Ëq9:24
+[INFO] 20:39:24:89 Servidor/(13971:14181): Me llego el mensaje Ëq9:24
+[INFO] 20:39:24:89 Servidor/(13971:14112): Me llego el mensaje Ëq9:24
+[INFO] 20:39:24:89 Servidor/(13971:14188): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:89 Servidor/(13971:14192): Me llego el mensaje Ëq9:24
+[INFO] 20:39:24:89 Servidor/(13971:14195): Me llego el mensaje Ëq9:24
+[INFO] 20:39:24:89 Servidor/(13971:14197): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:89 Servidor/(13971:14201): Me llego el mensaje (0q9:24
+[INFO] 20:39:24:89 Servidor/(13971:14203): Me llego el mensaje Ëq9:24
+[INFO] 20:39:24:91 Servidor/(13971:14347): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14336): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14338): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14344): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14341): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14320): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14321): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14322): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14323): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14325): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14328): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14331): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14332): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14340): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14342): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14346): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14312): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14313): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14317): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14330): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14339): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14343): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14314): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14315): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14316): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14318): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14319): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14324): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14326): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14327): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14329): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14333): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14334): Se conecto un cliente!
+[INFO] 20:39:24:91 Servidor/(13971:14335): Se conecto un cliente!
+[INFO] 20:39:24:92 Servidor/(13971:14337): Se conecto un cliente!
+[INFO] 20:39:24:92 Servidor/(13971:14345): Se conecto un cliente!
+[INFO] 20:39:24:92 Servidor/(13971:14348): Se conecto un cliente!
+[INFO] 20:39:24:92 Servidor/(13971:14311): Se conecto un cliente!
+[INFO] 20:39:24:92 Servidor/(13971:14349): Se conecto un cliente!
+[INFO] 20:39:24:92 Servidor/(13971:14350): Se conecto un cliente!
+[INFO] 20:39:24:92 Servidor/(13971:14351): Se conecto un cliente!
+[INFO] 20:39:24:92 Servidor/(13971:14352): Se conecto un cliente!
+[INFO] 20:39:24:92 Servidor/(13971:14310): Se conecto un cliente!
+[INFO] 20:39:24:92 Servidor/(13971:14309): Se conecto un cliente!
+[INFO] 20:39:24:96 Servidor/(13971:14308): Se conecto un cliente!
+[INFO] 20:39:24:145 Servidor/(13971:14285): Me llego el mensaje 
+[INFO] 20:39:24:145 Servidor/(13971:14289): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:145 Servidor/(13971:14293): Me llego el mensaje Ëq9:24
+[INFO] 20:39:24:145 Servidor/(13971:14297): Me llego el mensaje 
+[INFO] 20:39:24:145 Servidor/(13971:14301): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:145 Servidor/(13971:14305): Me llego el mensaje H
+[INFO] 20:39:24:145 Servidor/(13971:14207): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:145 Servidor/(13971:14213): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:145 Servidor/(13971:14218): Me llego el mensaje ‡q‡q
+[INFO] 20:39:24:145 Servidor/(13971:14225): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:145 Servidor/(13971:14231): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:145 Servidor/(13971:14237): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:145 Servidor/(13971:14244): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:145 Servidor/(13971:14250): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:145 Servidor/(13971:14256): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:145 Servidor/(13971:14262): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:146 Servidor/(13971:14269): Me llego el mensaje ‡q‡q
+[INFO] 20:39:24:146 Servidor/(13971:14275): Me llego el mensaje ‡q‡q
+[INFO] 20:39:24:146 Servidor/(13971:14280): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:146 Servidor/(13971:14096): Me llego el mensaje ‡q‡q
+[INFO] 20:39:24:146 Servidor/(13971:14151): Me llego el mensaje ‡q‡q
+[INFO] 20:39:24:146 Servidor/(13971:14143): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:146 Servidor/(13971:14130): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:146 Servidor/(13971:14157): Me llego el mensaje ‡q‡q
+[INFO] 20:39:24:146 Servidor/(13971:14132): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:146 Servidor/(13971:14121): Me llego el mensaje ‡q‡q
+[INFO] 20:39:24:146 Servidor/(13971:14136): Me llego el mensaje ‡q‡q
+[INFO] 20:39:24:146 Servidor/(13971:14166): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:298 Servidor/(13971:14176): Me llego el mensaje ‡q‡q
+[INFO] 20:39:24:298 Servidor/(13971:14186): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:298 Servidor/(13971:14194): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:298 Servidor/(13971:14204): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:298 Servidor/(13971:14336): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:298 Servidor/(13971:14320): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:298 Servidor/(13971:14325): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:298 Servidor/(13971:14340): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:298 Servidor/(13971:14313): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:298 Servidor/(13971:14343): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:299 Servidor/(13971:14318): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:299 Servidor/(13971:14327): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:299 Servidor/(13971:14335): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:299 Servidor/(13971:14311): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:299 Servidor/(13971:14352): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:299 Servidor/(13971:14284): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:299 Servidor/(13971:14290): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:299 Servidor/(13971:14295): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:299 Servidor/(13971:14300): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:299 Servidor/(13971:14306): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:299 Servidor/(13971:14210): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:299 Servidor/(13971:14217): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:299 Servidor/(13971:14226): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:299 Servidor/(13971:14234): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:371 Servidor/(13971:14242): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:372 Servidor/(13971:14251): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:372 Servidor/(13971:14259): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:372 Servidor/(13971:14267): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:372 Servidor/(13971:14276): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:372 Servidor/(13971:14085): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:372 Servidor/(13971:14149): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:372 Servidor/(13971:14122): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:372 Servidor/(13971:14144): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:372 Servidor/(13971:14114): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:372 Servidor/(13971:14126): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:372 Servidor/(13971:14150): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:372 Servidor/(13971:14175): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:372 Servidor/(13971:14187): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:372 Servidor/(13971:14199): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:373 Servidor/(13971:14347): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:373 Servidor/(13971:14321): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:373 Servidor/(13971:14331): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:373 Servidor/(13971:14312): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:373 Servidor/(13971:14314): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:373 Servidor/(13971:14324): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:373 Servidor/(13971:14334): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:373 Servidor/(13971:14349): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:374 Servidor/(13971:14309): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:374 Servidor/(13971:14288): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:376 Servidor/(13971:14296): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:376 Servidor/(13971:14303): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:553 Servidor/(13971:14208): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:553 Servidor/(13971:14220): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:553 Servidor/(13971:14229): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:553 Servidor/(13971:14240): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:554 Servidor/(13971:14253): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:554 Servidor/(13971:14264): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:554 Servidor/(13971:14273): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:554 Servidor/(13971:14109): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:554 Servidor/(13971:14140): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:554 Servidor/(13971:14134): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:554 Servidor/(13971:14141): Me llego el mensaje –/q‡q
+[INFO] 20:39:24:554 Servidor/(13971:14135): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:554 Servidor/(13971:14172): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:554 Servidor/(13971:14190): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:554 Servidor/(13971:14283): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:554 Servidor/(13971:14322): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:554 Servidor/(13971:14342): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:554 Servidor/(13971:14339): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:554 Servidor/(13971:14326): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:554 Servidor/(13971:14345): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:554 Servidor/(13971:14310): Me llego el mensaje ∞q9:24
+[INFO] 20:39:24:555 Servidor/(13971:14291): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:555 Servidor/(13971:14299): Me llego el mensaje –/q9:24
+[INFO] 20:39:24:555 Servidor/(13971:14206): Me llego el mensaje –/q9:24
+[INFO] 20:39:24:555 Servidor/(13971:14222): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:555 Servidor/(13971:14236): Me llego el mensaje –/q9:24
+[INFO] 20:39:24:555 Servidor/(13971:14248): Me llego el mensaje –/q9:24
+[INFO] 20:39:24:757 Servidor/(13971:14266): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:758 Servidor/(13971:14279): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:758 Servidor/(13971:14164): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:758 Servidor/(13971:14154): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:758 Servidor/(13971:14118): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:759 Servidor/(13971:14168): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:759 Servidor/(13971:14191): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:759 Servidor/(13971:14344): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:759 Servidor/(13971:14332): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:759 Servidor/(13971:14315): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:759 Servidor/(13971:14333): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:759 Servidor/(13971:14351): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:759 Servidor/(13971:14292): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:759 Servidor/(13971:14304): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:759 Servidor/(13971:14215): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:759 Servidor/(13971:14239): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:759 Servidor/(13971:14258): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:759 Servidor/(13971:14272): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:759 Servidor/(13971:14171): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:759 Servidor/(13971:14163): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:759 Servidor/(13971:14147): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:759 Servidor/(13971:14184): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:760 Servidor/(13971:14341): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:760 Servidor/(13971:14317): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:760 Servidor/(13971:14329): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:760 Servidor/(13971:14308): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:760 Servidor/(13971:14298): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:886 Servidor/(13971:14214): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:886 Servidor/(13971:14245): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:886 Servidor/(13971:14270): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:887 Servidor/(13971:14146): Me llego el mensaje 0õ9:24
+[INFO] 20:39:24:887 Servidor/(13971:14116): Me llego el mensaje P¥9:24
+[INFO] 20:39:24:887 Servidor/(13971:14182): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:887 Servidor/(13971:14323): Me llego el mensaje P¥9:24
+[INFO] 20:39:24:887 Servidor/(13971:14316): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:887 Servidor/(13971:14350): Me llego el mensaje Äq9:24
+[INFO] 20:39:24:887 Servidor/(13971:14302): Me llego el mensaje X
+[INFO] 20:39:24:887 Servidor/(13971:14228): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:887 Servidor/(13971:14260): Me llego el mensaje ÄqX
+[INFO] 20:39:24:887 Servidor/(13971:14123): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:887 Servidor/(13971:14156): Me llego el mensaje ÄqX
+[INFO] 20:39:24:887 Servidor/(13971:14338): Me llego el mensaje P¥9:24
+[INFO] 20:39:24:887 Servidor/(13971:14319): Me llego el mensaje P¥9:24
+[INFO] 20:39:24:887 Servidor/(13971:14287): Me llego el mensaje ÄqX
+[INFO] 20:39:24:888 Servidor/(13971:14223): Me llego el mensaje P¥9:24
+[INFO] 20:39:24:888 Servidor/(13971:14277): Me llego el mensaje P¥9:24
+[INFO] 20:39:24:888 Servidor/(13971:14169): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:888 Servidor/(13971:14200): Me llego el mensaje ÄqX
+[INFO] 20:39:24:888 Servidor/(13971:14337): Me llego el mensaje  0q9:24
+[INFO] 20:39:24:888 Servidor/(13971:14348): Me llego el mensaje ÄqX
+[INFO] 20:39:24:888 Servidor/(13971:14211): Me llego el mensaje P¥9:24
+[INFO] 20:39:24:888 Servidor/(13971:14282): Me llego el mensaje X
+[INFO] 20:39:24:888 Servidor/(13971:14179): Me llego el mensaje 00qX
+[INFO] 20:39:24:888 Servidor/(13971:14330): Me llego el mensaje X
+[INFO] 20:39:24:888 Servidor/(13971:14232): Me llego el mensaje 8™9:24
+[INFO] 20:39:24:888 Servidor/(13971:14127): Me llego el mensaje 00qX
+[INFO] 20:39:25:32 Servidor/(13971:14346): Me llego el mensaje ÄqX
+[INFO] 20:39:25:32 Servidor/(13971:14247): Me llego el mensaje (ø9:24
+[INFO] 20:39:25:32 Servidor/(13971:14198): Me llego el mensaje ÄqX
+[INFO] 20:39:25:32 Servidor/(13971:14307): Me llego el mensaje à«9:24
+[INFO] 20:39:25:32 Servidor/(13971:14328): Me llego el mensaje 00qX
+[INFO] 20:39:25:33 Servidor/(13971:14105): Me llego el mensaje ÄqX
+[INFO] 20:39:25:33 Servidor/(13971:14254): Me llego el mensaje ÄqX
+[INFO] 20:39:25:33 Servidor/(13971:14131): Me llego el mensaje 00qX
+[INFO] 20:39:25:33 Servidor/(13971:14294): Me llego el mensaje 00qX
+[INFO] 20:39:25:33 Servidor/(13971:14286): Me llego el mensaje ®ù9:24
+[INFO] 20:41:08:673 Servidor/(14739:14739): Servidor listo para recibir al cliente
+[INFO] 20:43:10:970 Servidor/(15192:15192): Servidor listo para recibir al cliente
+[INFO] 21:02:48:115 Servidor/(16007:16007): Servidor listo para recibir al cliente
+[INFO] 09:17:06:997 Servidor/(19381:19381): Servidor listo para recibir al cliente
+[INFO] 16:24:59:291 Servidor/(22787:22787): Point1
+[INFO] 16:26:22:345 Servidor/(22848:22848): Point1
+[INFO] 16:30:48:848 Servidor/(23117:23117): Point1
+[INFO] 16:31:29:101 Servidor/(23151:23151): Point1
+[INFO] 17:38:23:146 Servidor/(24357:24357): Point1
+[INFO] 17:39:47:929 Servidor/(24482:24482): Point1
+[INFO] 17:40:18:457 Servidor/(24523:24523): Point1
+[INFO] 18:14:55:906 Servidor/(25296:25296): Point1
+[INFO] 18:21:40:477 Servidor/(25454:25454): Point1
+[INFO] 18:21:40:482 Servidor/(25454:25454): Point2
+[INFO] 18:44:06:264 Servidor/(25906:25906): Point1
+[INFO] 18:44:06:273 Servidor/(25906:25906): Point2
+[INFO] 18:44:49:875 Servidor/(25959:25959): Point1
+[INFO] 18:44:49:887 Servidor/(25959:25959): Point2
+[INFO] 18:45:27:923 Servidor/(25991:25991): Point1
+[INFO] 18:45:27:933 Servidor/(25991:25991): Point2
+[INFO] 18:45:43:61 Servidor/(26017:26017): Point1
+[INFO] 18:45:43:77 Servidor/(26017:26017): Point2
+[INFO] 18:46:10:756 Servidor/(26039:26039): Point1
+[INFO] 18:46:10:760 Servidor/(26039:26039): Point2
+[INFO] 18:46:36:371 Servidor/(26073:26073): Point1
+[INFO] 18:46:36:373 Servidor/(26073:26073): Point2
+[INFO] 18:46:59:260 Servidor/(26116:26116): Point1
+[INFO] 18:47:55:208 Servidor/(26173:26173): Point1
+[INFO] 18:47:55:217 Servidor/(26173:26173): Point2
+[INFO] 18:47:55:219 Servidor/(26173:26173): Servidor listo para recibir al cliente
+[INFO] 18:48:48:137 Servidor/(26173:26266): Se conecto un cliente!
+[WARNING] 18:48:48:140 Servidor/(26173:26266): Operacion desconocida. No quieras meter la pata
+[INFO] 18:49:10:715 Servidor/(26173:26276): Se conecto un cliente!
+[WARNING] 18:49:10:717 Servidor/(26173:26276): Operacion desconocida. No quieras meter la pata
+[INFO] 18:59:14:677 Servidor/(26498:26498): Point1
+[INFO] 18:59:14:680 Servidor/(26498:26498): Point2
+[INFO] 18:59:14:683 Servidor/(26498:26498): Servidor listo para recibir al cliente
+[INFO] 18:59:20:195 Servidor/(26498:26508): Me llego el mensaje 
+[INFO] 18:59:34:959 Servidor/(26498:26520): Me llego el mensaje 
+[INFO] 19:05:24:231 Servidor/(26666:26666): Point1
+[INFO] 19:05:24:233 Servidor/(26666:26666): Point2
+[INFO] 19:05:24:234 Servidor/(26666:26666): Servidor listo para recibir al cliente
+[INFO] 19:05:29:76 Servidor/(26666:26675): Me llego el mensaje 

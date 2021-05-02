@@ -7,37 +7,84 @@
 
 #include"utils.h"
 
-int iniciar_servidor(void)
+int iniciar_servidor(t_log* log)
 {
+
+	/*
+	 *  ¿Quien soy? ¿Donde estoy? ¿Existo?
+	 *
+	 *  Estas y otras preguntas existenciales son resueltas getaddrinfo();
+	 *
+	 *  Obtiene los datos de la direccion de red y lo guarda en serverInfo.
+	 *#include "misHilos.c"
+	 */
+
+
+	struct addrinfo hints;
+	struct addrinfo *serverInfo;
+
+	memset(&hints, 0, sizeof(hints));
+	hints.ai_family = AF_UNSPEC;		// No importa si uso IPv4 o IPv6
+	hints.ai_flags = AI_PASSIVE;		// Asigna el address que le envia el proceso
+	hints.ai_socktype = SOCK_STREAM;	// Indica que usaremos el protocolo TCP
+
+	
+
+	getaddrinfo(IP, PUERTO, &hints, &serverInfo);
+
+
+
+	/*
+	 * 	Descubiertos los misterios de la vida (por lo menos, para la conexion de red actual), necesito enterarme de alguna forma
+	 * 	cuales son las conexiones que quieren establecer conmigo.
+	 *
+	 * 	Para ello, y basandome en el postulado de lo que se usa siempre en Linux, voy a utilizar... Si, un archivo!
+	 *
+	 * 	Mediante socket(), obtengo el File Descriptor que me proporciona el sistema (un integer identificador).
+	 *
+	 */
+	/* Necesitamos un socket que escuche las conecciones entrantes */
+
+
 	int socket_servidor;
+	socket_servidor = socket(serverInfo->ai_family, serverInfo->ai_socktype,serverInfo->ai_protocol);
 
-    struct addrinfo hints, *servinfo, *p;
+		// Si habia quedado algun bit de conexion lo limpio
+	int yes=1;
+	// lose the pesky "Address already in use" error message
+	if ((setsockopt(socket_servidor, SOL_SOCKET, SO_REUSEADDR, &yes, sizeof(int)) == -1)){
+	    perror("Error");
+	    exit(1);
+	}
+	
 
-    memset(&hints, 0, sizeof(hints));
-    hints.ai_family = AF_UNSPEC;
-    hints.ai_socktype = SOCK_STREAM;
-    hints.ai_flags = AI_PASSIVE;
+    // 	/*
+	//  * 	Perfecto, ya tengo un archivo que puedo utilizar para analizar las conexiones entrantes. Pero... ¿Por donde?
+	//  *
+	//  * 	Necesito decirle al sistema que voy a utilizar el archivo que me proporciono para escuchar las conexiones por un puerto especifico.
+	//  *
+	//  * 				OJO! Todavia no estoy escuchando las conexiones entrantes!
+	//  *
+	//  */
+	
+	if (bind(socket_servidor, serverInfo->ai_addr, serverInfo->ai_addrlen) < 0) perror("Error");
+	freeaddrinfo(serverInfo); // Ya no lo vamos a necesitar
+	
 
-    getaddrinfo(IP, PUERTO, &hints, &servinfo);
-
-    for (p=servinfo; p != NULL; p = p->ai_next)
-    {
-        if ((socket_servidor = socket(p->ai_family, p->ai_socktype, p->ai_protocol)) == -1)
-            continue;
-
-        if (bind(socket_servidor, p->ai_addr, p->ai_addrlen) == -1) {
-            close(socket_servidor);
-            continue;
-        }
-        break;
-    }
-
-
+	/*
+	 * 	Descubiertos los misterios de la vida (por lo menos, para la conexion de red actual), necesito enterarme de alguna forma
+	 * 	cuales son las conexiones que quieren establecer conmigo.
+	 *
+	 * 	Para ello, y basandome en el postulado de lo que se usa siempre en Linux, voy a utilizar... Si, un archivo!
+	 *
+	 * 	Mediante socket(), obtengo el File Descriptor que me proporciona el sistema (un integer identificador).
+	 *
+	 */
+	/* Necesitamos un socket que escuche las conecciones entrantes */
 	listen(socket_servidor, SOMAXCONN);
 
-    freeaddrinfo(servinfo);
-
-    log_trace(logger, "Listo para escuchar a mi cliente");
+	log_info(log,"Point2");
+    //log_trace(logger, "Listo para escuchar a mi cliente");
 
     return socket_servidor;
 }
@@ -76,8 +123,34 @@ int esperar_cliente(int socket_servidor)
 			
 log_info(logger, "Se conecto un cliente!");
 return socket_cliente;
+}
 
+int escucharCliente(t_log* logger, int listenningSocket) {
+	//log_info(logger, "Listo para escuchar a cualquier Cliente...");
+	//listen(listenningSocket, SOMAXCONN); // IMPORTANTE: listen() es una syscall BLOQUEANTE.
 
+	/*
+	 * 	El sistema esperara hasta que reciba una conexion entrante...
+	 * 	...
+	 * 	...
+	 * 	BING!!! Nos estan llamando! ¿Y ahora?
+	 *
+	 *	Aceptamos la conexion entrante, y creamos un nuevo socket mediante el cual nos podamos comunicar (que no es mas que un archivo).
+	 *
+	 *	¿Por que crear un nuevo socket? Porque el anterior lo necesitamos para escuchar las conexiones entrantes. De la misma forma que
+	 *	uno no puede estar hablando por telefono a la vez que esta esperando que lo llamen, un socket no se puede encargar de escuchar
+	 *	las conexiones entrantes y ademas comunicarse con un cliente.
+	 *
+	 *			Nota: Para que el listenningSocket vuelva a esperar conexiones, necesitariamos volver a decirle que escuche, con listen();
+	 *				En este ejemplo nos dedicamos unicamente a trabajar con el cliente y no escuchamos mas conexiones.
+	 *
+	 */
+	struct sockaddr_in addr; // Esta estructura contendra los datos de la conexion del cliente. IP, puerto, etc.
+	socklen_t addrlen = sizeof(addr);
+
+	int socketCliente = accept(listenningSocket, (struct sockaddr *) &addr,	&addrlen);
+
+	return socketCliente;
 }
 
 int recibir_operacion(int socket_cliente)
@@ -145,19 +218,18 @@ void* noficar_salida_de_cliente(int estadoHijo)
 	}
 }
 
-void* atender_cliente(void* server_fd){
+void* atender_cliente(void* cliente_fd){
 	t_list* lista;
 
-		void iterator(char* value)
-	{
+		void iterator(char* value){
 		printf("%s\n", value);
-	}
+	};
 
 	//int server_fd = (void*) server;
 	//while(1)
 	//{
-		int cliente_fd = esperar_cliente((int) server_fd);
-		int cod_op = recibir_operacion(cliente_fd);
+	//	int cliente_fd = esperar_cliente((int) server_fd);
+		int cod_op = recibir_operacion((int) cliente_fd);
 		switch(cod_op)
 		{
 		case MENSAJE:
