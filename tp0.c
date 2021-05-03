@@ -47,10 +47,10 @@ int main(void)
 	//enviar CLAVE al servidor
 	enviar_mensaje(CLAVE_valor,conexion);
 	
-	t_paquete* paquete = preparar_paquete();
-	enviar_paquete(paquete,conexion);  
+	//t_paquete* paquete = preparar_paquete();
+	//enviar_paquete(paquete,conexion);  
 
-	eliminar_paquete(paquete);
+	//eliminar_paquete(paquete);
 	terminar_programa(conexion, logger, config);
 }
 

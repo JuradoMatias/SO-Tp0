@@ -13,7 +13,8 @@
                 "/usr/include/i386-linux-gnu",
                 "/usr/include",
                 "${workspaceFolder}/include",
-                "../shared/include"
+                "../shared/include",
+                "${workspaceFolder}/biblioteca"
             ],
             "defines": [
                 "_GNU_SOURCE"
@@ -22,7 +23,6 @@
             "browse": {
                 "path": [
                     "${workspaceFolder}",
-                    "${workspaceFolder}/include",
                     "../shared/include",
                     "/usr/include/c++/5",
                     "/usr/include/i386-linux-gnu/c++/5",

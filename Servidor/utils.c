@@ -32,8 +32,6 @@ int iniciar_servidor(t_log* log)
 
 	getaddrinfo(IP, PUERTO, &hints, &serverInfo);
 
-
-
 	/*
 	 * 	Descubiertos los misterios de la vida (por lo menos, para la conexion de red actual), necesito enterarme de alguna forma
 	 * 	cuales son las conexiones que quieren establecer conmigo.
@@ -83,9 +81,6 @@ int iniciar_servidor(t_log* log)
 	/* Necesitamos un socket que escuche las conecciones entrantes */
 	listen(socket_servidor, SOMAXCONN);
 
-	log_info(log,"Point2");
-    //log_trace(logger, "Listo para escuchar a mi cliente");
-
     return socket_servidor;
 }
 
@@ -95,39 +90,14 @@ int esperar_cliente(int socket_servidor)
 	int tam_direccion = sizeof(struct sockaddr_in);
 
 	int socket_cliente = accept(socket_servidor, (void*) &dir_cliente, &tam_direccion);
-
-/* 
-		while(fork() != -1)
-	{
-		// case -1:
-		// // el fork no me creo nada
-		// printf("se rompio todo");
-		// break;
-		if(fork() == 0)
-		{
-		// codigo del hijo
-		log_info(logger, "Se conecto un cliente!");
-		return socket_cliente;
-
-		}else
-		{
-		// codigo del padre - original
-		pthread_t id_hilo;
-		pthread_create(&id_hilo,NULL,noficar_salida_de_cliente,NULL);
-		pthread_Exit();
-		int socket_cliente = accept(socket_servidor, (void*) &dir_cliente, &tam_direccion);
-
-		}
-	}
-	*/
 			
-log_info(logger, "Se conecto un cliente!");
-return socket_cliente;
+	log_info(logger, "Se conecto un cliente!");
+	return socket_cliente;
 }
 
 int escucharCliente(t_log* logger, int listenningSocket) {
-	//log_info(logger, "Listo para escuchar a cualquier Cliente...");
-	//listen(listenningSocket, SOMAXCONN); // IMPORTANTE: listen() es una syscall BLOQUEANTE.
+	log_info(logger, "Listo para escuchar a cualquier Cliente...");
+	listen(listenningSocket, SOMAXCONN); // IMPORTANTE: listen() es una syscall BLOQUEANTE.
 
 	/*
 	 * 	El sistema esperara hasta que reciba una conexion entrante...
@@ -171,6 +141,7 @@ void* recibir_buffer(int* size, int socket_cliente)
 
 	recv(socket_cliente, size, sizeof(int), MSG_WAITALL);
 	buffer = malloc(*size);
+	log_info(logger,size);
 	recv(socket_cliente, buffer, *size, MSG_WAITALL);
 
 	return buffer;
@@ -218,17 +189,14 @@ void* noficar_salida_de_cliente(int estadoHijo)
 	}
 }
 
-void* atender_cliente(void* cliente_fd){
+void* atender_cliente(void* server_fd){
 	t_list* lista;
 
 		void iterator(char* value){
 		printf("%s\n", value);
 	};
 
-	//int server_fd = (void*) server;
-	//while(1)
-	//{
-	//	int cliente_fd = esperar_cliente((int) server_fd);
+		int cliente_fd = esperar_cliente((int) server_fd);
 		int cod_op = recibir_operacion((int) cliente_fd);
 		switch(cod_op)
 		{
@@ -246,7 +214,6 @@ void* atender_cliente(void* cliente_fd){
 		default:
 			log_warning(logger, "Operacion desconocida. No quieras meter la pata");
 			break;
-	//	}
 	}
 
 	return 0;

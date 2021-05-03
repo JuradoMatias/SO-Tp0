@@ -7,6 +7,8 @@
 
 #include "servidor.h"
 
+
+
 int main(void)
 {
 	// void iterator(char* value)
@@ -16,17 +18,16 @@ int main(void)
 
 	logger = log_create("log.log", "Servidor", 1, LOG_LEVEL_DEBUG);
 
-	log_info(logger, "Point1");
-
-	int socket_escucha = iniciar_servidor(logger);
-	log_info(logger, "Servidor listo para recibir al cliente");
-
+	int socketDeEscucha = conectarComoServidor(logger, IP, PUERTO);
 
 	while (1) { // Infinitamente escucha a la espera de que se conecte alguien
-		int socketCliente = escucharCliente(logger, socket_escucha);
+		int socketCliente = escucharCliente(logger, socketDeEscucha);
 		pthread_t unHilo; // Cada conexion la delega en un hilo
-		pthread_create(&unHilo, NULL, (void*) atender_cliente, (void*) &socketCliente);
+		pthread_create(&unHilo, NULL, (void*) establecerConexion, (void*) &socketCliente);
 	}
 
 	return EXIT_SUCCESS;
 }
+
+
+
