@@ -4,6 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}",
+                "${workspaceFolder}/shared/include",
                 "/usr/include/c++/5",
                 "/usr/include/i386-linux-gnu/c++/5",
                 "/usr/include/c++/5/backward",
@@ -22,8 +23,7 @@
             "browse": {
                 "path": [
                     "${workspaceFolder}",
-                    "${workspaceFolder}/include",
-                    "../shared/include/",
+                    "${workspaceFolder}/shared/include",
                     "/usr/include/c++/5",
                     "/usr/include/i386-linux-gnu/c++/5",
                     "/usr/include/c++/5/backward",
